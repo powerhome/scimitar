@@ -1,3 +1,9 @@
+# Fork by powerhome, 1.0.0 (2024-04-23)
+
+Features:
+
+* Allow requesting specific attributes, see RFC 7644 / section-3.9, via [1](https://github.com/powerhome/scimitar/pull/1)
+
 # 2.7.2 (2024-03-27)
 
 Fixes:

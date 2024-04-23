@@ -2,7 +2,7 @@ $:.push File.expand_path('../lib', __FILE__)
 require 'scimitar/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'scimitar'
+  s.name        = 'powerhome-scimitar'
   s.version     = Scimitar::VERSION
   s.date        = Scimitar::DATE
   s.summary     = 'SCIM v2 for Rails'
@@ -16,9 +16,9 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://www.ripaglobal.com/'
 
   s.metadata['homepage_uri'   ] = s.homepage
-  s.metadata['source_code_uri'] = 'https://github.com/RIPAGlobal/scimitar/'
-  s.metadata['bug_tracker_uri'] = 'https://github.com/RIPAGlobal/scimitar/issues/'
-  s.metadata['changelog_uri'  ] = 'https://github.com/RIPAGlobal/scimitar/blob/main/CHANGELOG.md'
+  s.metadata['source_code_uri'] = 'https://github.com/powerhome/scimitar/'
+  s.metadata['bug_tracker_uri'] = 'https://github.com/powerhome/scimitar/issues/'
+  s.metadata['changelog_uri'  ] = 'https://github.com/powerhome/scimitar/blob/main/CHANGELOG.md'
 
   s.required_ruby_version = '>= 2.7.0'
 
